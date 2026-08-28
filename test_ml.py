@@ -54,4 +54,3 @@ def test_compute_model_metrics():
     assert precision == 1.0
     assert recall == 1.0
     assert fbeta == 1.0
-

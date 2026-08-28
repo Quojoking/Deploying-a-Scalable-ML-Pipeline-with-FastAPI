@@ -11,7 +11,6 @@ print(f"Status Code: {r.status_code}")
 print(f"Result: {r.json()['message']}")
 
 
-
 data = {
     "age": 37,
     "workclass": "Private",
